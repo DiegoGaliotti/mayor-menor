@@ -8,19 +8,19 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\alvar\\.nuget\\packages\\": {}
+    "C:\\Users\\PC\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alvar\\source\\repos\\mayor-menor\\mayor-menor\\mayor-menor.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\Documents\\GitHub\\mayor-menor\\mayor-menor\\mayor-menor\\mayor-menor.csproj",
       "projectName": "mayor-menor",
-      "projectPath": "C:\\Users\\alvar\\source\\repos\\mayor-menor\\mayor-menor\\mayor-menor.csproj",
-      "packagesPath": "C:\\Users\\alvar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alvar\\source\\repos\\mayor-menor\\mayor-menor\\obj\\",
+      "projectPath": "C:\\Users\\PC\\Documents\\GitHub\\mayor-menor\\mayor-menor\\mayor-menor\\mayor-menor.csproj",
+      "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\PC\\Documents\\GitHub\\mayor-menor\\mayor-menor\\mayor-menor\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\alvar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
